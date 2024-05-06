@@ -11,4 +11,4 @@ Archivo de Packet Tracer donde se simule la red que se solicitó en el documento
 ## Capturas de la visualización del proyecto
 ![Alt Captura de Pantalla](captures/Map-NetWork-Trabajo-Final.jpg)
 ![Alt Captura de Pantalla](captures/Captura-1.png)
-![Alt Captura de Pantalla](captures/Captura-1.png)
+![Alt Captura de Pantalla](captures/Captura-2.png)
